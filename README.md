@@ -18,7 +18,7 @@ To run the project locally, follow these steps:
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/SAURABHSINGHDHAMI/Plant-Disease-Detection.git
+git clone  https://github.com/techankitk/Plant-Disease-Detection.git
 ```
 
 2. Navigate to the project directory:
@@ -41,7 +41,7 @@ streamlit run main_app.py
 
 ## Usage 🌿
 
-Once the application is running, open your web browser and navigate to [http://localhost:8501](http://localhost:8501). Upload an image of a plant leaf, and the system will predict if it is affected by any disease.
+Once the application runs, open your web browser and navigate to [http://localhost:8501](http://localhost:8501). Upload an image of a plant leaf, and the system will predict if it is affected by any disease.
 
 ## Model Training 🧠
 
