@@ -18,7 +18,7 @@ To run the project locally, follow these steps:
 1. **Clone the repository:**
 
 ```bash
-git clone  https://github.com/techankitk/Plant-Disease-Detection.git
+git clone  https://github.com/iankit-sachan/Plant-Disease-Detection
 ```
 
 2. Navigate to the project directory:
